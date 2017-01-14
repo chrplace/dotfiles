@@ -16,6 +16,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'jmcantrell/vim-virtualenv'
 Plugin 'tpope/vim-obsession'
+Plugin 'mattn/emmet-vim'	
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
