@@ -30,6 +30,7 @@ _might need to add something for the virtualenv_
 ### tmux
 ```bash
 sudo apt install tmux
+ln -s ~/src/dotfiles/tmux.conf ~/.tmux.conf
 ```
 #### tpm (Tmux Plugin Manager)
 ```bash
